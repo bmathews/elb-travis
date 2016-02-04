@@ -4,7 +4,7 @@ const koa = require('koa');
 const app = koa();
 
 app.use(function *(){
-  this.body = 'Hello World';
+  this.body = 'Hello New World';
 });
 
 const port = process.env.PORT || 3000
