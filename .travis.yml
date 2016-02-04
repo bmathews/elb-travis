@@ -5,7 +5,7 @@ deploy:
   provider: elasticbeanstalk
   region: us-west-2
   app: My First Elastic Beanstalk Application
-  env: Default Environment
+  env: Default-Environment
   bucket_name: elasticbeanstalk-us-west-2-728515988039
   access_key_id: AKIAINNBUJWC7JQG2QVA
   secret_access_key:
