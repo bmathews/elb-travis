@@ -1,0 +1,23 @@
+{
+  "name": "elb-travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmathews/elb-travis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmathews/elb-travis/issues"
+  },
+  "homepage": "https://github.com/bmathews/elb-travis#readme",
+  "dependencies": {
+    "koa": "^1.1.2"
+  }
+}
